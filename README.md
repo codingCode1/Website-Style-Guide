@@ -1,3 +1,3 @@
 # website-style-guide
- Codecademy project /
+ Codecademy project \
  https://codingcode1.github.io/website-style-guide/
